@@ -1,0 +1,1 @@
+case class Duck(name: String, legs: Int)

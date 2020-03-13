@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/implicits.iml" filepath="$PROJECT_DIR$/.idea/modules/implicits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/implicits-build.iml" filepath="$PROJECT_DIR$/.idea/modules/implicits-build.iml" />
+    </modules>
+  </component>
+</project>
